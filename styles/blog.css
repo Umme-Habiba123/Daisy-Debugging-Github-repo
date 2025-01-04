@@ -1,5 +1,10 @@
 div{
-    background-color: aqua;
+    background-color:thistle;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.mimu{
+    background-color: violet;
     padding: 10px;
     margin-bottom: 10px;
 }
