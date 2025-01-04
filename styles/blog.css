@@ -9,5 +9,6 @@ div{
     margin-bottom: 10px;
 }
 .me{
-    height: auto;
+    height: 200px;
+    width: 300px;
 }
