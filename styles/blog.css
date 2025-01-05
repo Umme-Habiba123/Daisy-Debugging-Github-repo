@@ -9,6 +9,10 @@ div{
     margin-bottom: 10px;
 }
 .me{
-    height: 200px;
+   
     width: 300px;
+}
+footer{
+    margin-top: 10px;
+    text-align: center;
 }
